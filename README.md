@@ -16,3 +16,8 @@ This project aims to classify brain tumors in MRI images using deep learning tec
 
 ```bash
 git clone https://github.com/abhirukth/Brain-Tumor-MRI-Detection.git
+```
+
+## Presentation
+
+[Check out our presentation](https://docs.google.com/presentation/d/1B_IQh9R3ac8BoDqn_3OpXFNQxXYNG-e30nZDO_6idBI/edit?usp=sharing)
